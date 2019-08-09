@@ -1,3 +1,2 @@
 <?php
-echo "Meu primeiro programa em php";
-?> 
+echo "Olá Mundo "; 
